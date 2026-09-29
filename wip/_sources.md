@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [abituriyentam/den-vidkrytykh-dverey.md](abituriyentam/den-vidkrytykh-dverey.md) | httrack | `abituriientam/den-vidkritih-dverey.html` | https://iupr.com.ua/abituriientam/den-vidkritih-dverey |
 | [abituriyentam/index.md](abituriyentam/index.md) | httrack | `abituriientam.html` | https://iupr.com.ua/abituriientam |
-| [kontakty/adresa-telefony-mapa.md](kontakty/adresa-telefony-mapa.md) | httrack | `adresa-telefoni-mapa.html` | https://iupr.com.ua/adresa-telefoni-mapa |
+| [instytut_new/kontaktna-informatsiya.md](instytut_new/kontaktna-informatsiya.md) | httrack | `adresa-telefoni-mapa.html` | https://iupr.com.ua/adresa-telefoni-mapa |
 | [novyny/akciya-pidtrimaiemo-nashih-zahisnikiv.md](novyny/akciya-pidtrimaiemo-nashih-zahisnikiv.md) | httrack | `silabusi/novini/akciya-pidtrimaiemo-nashih-zahisnikiv.html` | https://iupr.com.ua/silabusi/novini/akciya-pidtrimaiemo-nashih-zahisnikiv |
 | [novyny/ceremoniya-vruchennya-diplomiv.md](novyny/ceremoniya-vruchennya-diplomiv.md) | httrack | `silabusi/novini/ceremoniya-vruchennya-diplomiv.html` | https://iupr.com.ua/silabusi/novini/ceremoniya-vruchennya-diplomiv |
 | [novyny/den-bezpechnoho-internetu.md](novyny/den-bezpechnoho-internetu.md) | httrack | `silabusi/novini-1.html` | https://iupr.com.ua/silabusi/novini-1 |
@@ -44,15 +44,15 @@
 | [osvitni-prohramy/heodeziya-ta-zemleustriy.md](osvitni-prohramy/heodeziya-ta-zemleustriy.md) | httrack | `finansi-bankivska-sprava-strahuvannya-ta-fondoviy-rinok-1-1.html` · `draft-placeholder` | https://iupr.com.ua/finansi-bankivska-sprava-strahuvannya-ta-fondoviy-rinok-1-1 |
 | [osvitni-prohramy/sylabusy.md](osvitni-prohramy/sylabusy.md) | httrack | `silabusi.html` | https://iupr.com.ua/silabusi |
 | [osvitni-prohramy/turyzm-i-rekreatsiya.md](osvitni-prohramy/turyzm-i-rekreatsiya.md) | httrack | `finansi-bankivska-sprava-strahuvannya-ta-fondoviy-rinok-1.html` · `draft-placeholder` | https://iupr.com.ua/finansi-bankivska-sprava-strahuvannya-ta-fondoviy-rinok-1 |
-| [pro-nas/istoriya-zakladu.md](pro-nas/istoriya-zakladu.md) | httrack | `normatyvni-dok/istoriya-zakladu.html` | https://iupr.com.ua/normatyvni-dok/istoriya-zakladu |
-| [pro-nas/monitoryng-yakosti-osvity.md](pro-nas/monitoryng-yakosti-osvity.md) | httrack | `normatyvni-dok/monit.html` | https://iupr.com.ua/normatyvni-dok/monit |
-| [pro-nas/navchalno-organizatsiynyi-viddil.md](pro-nas/navchalno-organizatsiynyi-viddil.md) | httrack | `normatyvni-dok/navchalno-organizaciyniy-viddil.html` | https://iupr.com.ua/normatyvni-dok/navchalno-organizaciyniy-viddil |
-| [pro-nas/normatyvni-dokumenty.md](pro-nas/normatyvni-dokumenty.md) | httrack | `normatyvni-dok.html` | https://iupr.com.ua/normatyvni-dok |
-| [pro-nas/pro-instytut.md](pro-nas/pro-instytut.md) | httrack | `index.html` | https://iupr.com.ua/ |
-| [pro-nas/strategiya-rozvitku.md](pro-nas/strategiya-rozvitku.md) | httrack | `normatyvni-dok/strategiya-rozvitku.html` | https://iupr.com.ua/normatyvni-dok/strategiya-rozvitku |
-| [pro-nas/struktura-instytutu.md](pro-nas/struktura-instytutu.md) | httrack | `normatyvni-dok/struktura-institutu.html` | https://iupr.com.ua/normatyvni-dok/struktura-institutu |
-| [pro-nas/tsyklova-komisiya-fundamentalnykh-dystsyplin.md](pro-nas/tsyklova-komisiya-fundamentalnykh-dystsyplin.md) | httrack | `normatyvni-dok/ciklovi-komisiyi.html` | https://iupr.com.ua/normatyvni-dok/ciklovi-komisiyi |
-| [pro-nas/tsyklova-komisiya-humanitarnykh-dystsyplin.md](pro-nas/tsyklova-komisiya-humanitarnykh-dystsyplin.md) | httrack | `normatyvni-dok/ciklova-komisiya-gumanitarnih-disciplin.html` | https://iupr.com.ua/normatyvni-dok/ciklova-komisiya-gumanitarnih-disciplin |
+| [instytut_new/istoriya-zakladu.md](instytut_new/istoriya-zakladu.md) | httrack | `normatyvni-dok/istoriya-zakladu.html` | https://iupr.com.ua/normatyvni-dok/istoriya-zakladu |
+| [instytut_new/publichna-informatsiya.md](instytut_new/publichna-informatsiya.md#monitoryng-yakosti-osvity) | httrack | `normatyvni-dok/monit.html` | https://iupr.com.ua/normatyvni-dok/monit |
+| [instytut_new/struktura-instytutu.md](instytut_new/struktura-instytutu.md#навчально-організаційний-відділ) | httrack | `normatyvni-dok/navchalno-organizaciyniy-viddil.html` | https://iupr.com.ua/normatyvni-dok/navchalno-organizaciyniy-viddil |
+| [instytut_new/publichna-informatsiya.md](instytut_new/publichna-informatsiya.md) | httrack | `normatyvni-dok.html` | https://iupr.com.ua/normatyvni-dok |
+| [instytut_new/landing.md](instytut_new/landing.md) | httrack | `index.html` | https://iupr.com.ua/ |
+| [instytut_new/strategiya.md](instytut_new/strategiya.md) | httrack | `normatyvni-dok/strategiya-rozvitku.html` | https://iupr.com.ua/normatyvni-dok/strategiya-rozvitku |
+| [instytut_new/struktura-instytutu.md](instytut_new/struktura-instytutu.md) | httrack | `normatyvni-dok/struktura-institutu.html` | https://iupr.com.ua/normatyvni-dok/struktura-institutu |
+| [instytut_new/struktura-instytutu.md](instytut_new/struktura-instytutu.md#циклова-комісія-фундаментальних-дисциплін-туризму-та-фінансів) | httrack | `normatyvni-dok/ciklovi-komisiyi.html` | https://iupr.com.ua/normatyvni-dok/ciklovi-komisiyi |
+| [instytut_new/struktura-instytutu.md](instytut_new/struktura-instytutu.md#циклова-комісія-гуманітарних-дисциплін) | httrack | `normatyvni-dok/ciklova-komisiya-gumanitarnih-disciplin.html` | https://iupr.com.ua/normatyvni-dok/ciklova-komisiya-gumanitarnih-disciplin |
 | [studentam/index.md](studentam/index.md) | httrack | `studentam.html` | https://iupr.com.ua/studentam |
 | [studentam/kataloh-vybirkovykh-dystsyplin-finansy.md](studentam/kataloh-vybirkovykh-dystsyplin-finansy.md) | httrack | `studentam/katalog-finansi.html` | https://iupr.com.ua/studentam/katalog-finansi |
 | [studentam/kataloh-vybirkovykh-dystsyplin.md](studentam/kataloh-vybirkovykh-dystsyplin.md) | httrack | `studentam/katalog-vibirkovih-disciplin.html` | https://iupr.com.ua/studentam/katalog-vibirkovih-disciplin |

@@ -5,15 +5,15 @@
 
 ## Про нас
 
-- [Про Інститут (огляд)](pro-nas/pro-instytut.md)
-- [Історія закладу](pro-nas/istoriya-zakladu.md)
-- [Стратегія розвитку](pro-nas/strategiya-rozvitku.md)
-- [Нормативні документи](pro-nas/normatyvni-dokumenty.md)
-- [Моніторинг якості освіти](pro-nas/monitoryng-yakosti-osvity.md)
-- [Структура Інституту](pro-nas/struktura-instytutu.md)
-- [Навчально-організаційний відділ](pro-nas/navchalno-organizatsiynyi-viddil.md)
-- [Циклова комісія фундаментальних дисциплін, туризму та фінансів](pro-nas/tsyklova-komisiya-fundamentalnykh-dystsyplin.md)
-- [Циклова комісія гуманітарних дисциплін](pro-nas/tsyklova-komisiya-humanitarnykh-dystsyplin.md)
+- [Про Інститут (огляд)](instytut_new/landing.md)
+- [Історія закладу](instytut_new/istoriya-zakladu.md)
+- [Стратегія розвитку](instytut_new/strategiya.md)
+- [Нормативні документи](instytut_new/publichna-informatsiya.md)
+- [Моніторинг якості освіти](instytut_new/publichna-informatsiya.md#monitoryng-yakosti-osvity)
+- [Структура Інституту](instytut_new/struktura-instytutu.md)
+- [Навчально-організаційний відділ](instytut_new/struktura-instytutu.md#навчально-організаційний-відділ)
+- [Циклова комісія фундаментальних дисциплін, туризму та фінансів](instytut_new/struktura-instytutu.md#циклова-комісія-фундаментальних-дисциплін-туризму-та-фінансів)
+- [Циклова комісія гуманітарних дисциплін](instytut_new/struktura-instytutu.md#циклова-комісія-гуманітарних-дисциплін)
 - Ліцензія та акредитація — [реєстр ЄДЕБО](https://registry.edbo.gov.ua/university/869/)
 
 ## Освітні програми
@@ -88,4 +88,4 @@
 
 ## Контакти
 
-- [Адреса, телефони, мапа](kontakty/adresa-telefony-mapa.md)
+- [Адреса, телефони, мапа](instytut_new/kontaktna-informatsiya.md)

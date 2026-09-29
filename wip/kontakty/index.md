@@ -10,4 +10,4 @@ tags: [розділ]
 
 ## Сторінки розділу
 
-- [Адреса, телефони, мапа](adresa-telefony-mapa.md)
+- [Адреса, телефони, мапа](../instytut_new/kontaktna-informatsiya.md)

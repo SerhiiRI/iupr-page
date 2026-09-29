@@ -10,13 +10,13 @@ tags: [розділ]
 
 ## Сторінки розділу
 
-- [Про Інститут (огляд)](pro-instytut.md)
-- [Історія закладу](istoriya-zakladu.md)
-- [Стратегія розвитку](strategiya-rozvitku.md)
-- [Нормативні документи](normatyvni-dokumenty.md)
-- [Моніторинг якості освіти](monitoryng-yakosti-osvity.md)
-- [Структура Інституту](struktura-instytutu.md)
-- [Навчально-організаційний відділ](navchalno-organizatsiynyi-viddil.md)
-- [Циклова комісія фундаментальних дисциплін, туризму та фінансів](tsyklova-komisiya-fundamentalnykh-dystsyplin.md)
-- [Циклова комісія гуманітарних дисциплін](tsyklova-komisiya-humanitarnykh-dystsyplin.md)
+- [Про Інститут (огляд)](../instytut_new/landing.md)
+- [Історія закладу](../instytut_new/istoriya-zakladu.md)
+- [Стратегія розвитку](../instytut_new/strategiya.md)
+- [Нормативні документи](../instytut_new/publichna-informatsiya.md)
+- [Моніторинг якості освіти](../instytut_new/publichna-informatsiya.md#monitoryng-yakosti-osvity)
+- [Структура Інституту](../instytut_new/struktura-instytutu.md)
+- [Навчально-організаційний відділ](../instytut_new/struktura-instytutu.md#навчально-організаційний-відділ)
+- [Циклова комісія фундаментальних дисциплін, туризму та фінансів](../instytut_new/struktura-instytutu.md#циклова-комісія-фундаментальних-дисциплін-туризму-та-фінансів)
+- [Циклова комісія гуманітарних дисциплін](../instytut_new/struktura-instytutu.md#циклова-комісія-гуманітарних-дисциплін)
 - Ліцензія та акредитація — [реєстр ЄДЕБО](https://registry.edbo.gov.ua/university/869/)

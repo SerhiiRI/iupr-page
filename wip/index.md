@@ -17,12 +17,12 @@ tags: [індекс]
 ## Розділи
 
 - **[Про нас](pro-nas/index.md)**
-  - [Про Інститут (огляд)](pro-nas/pro-instytut.md)
-  - [Історія закладу](pro-nas/istoriya-zakladu.md)
-  - [Стратегія розвитку](pro-nas/strategiya-rozvitku.md)
-  - [Нормативні документи](pro-nas/normatyvni-dokumenty.md)
-  - [Моніторинг якості освіти](pro-nas/monitoryng-yakosti-osvity.md)
-  - [Структура Інституту](pro-nas/struktura-instytutu.md)
+  - [Про Інститут (огляд)](instytut_new/landing.md)
+  - [Історія закладу](instytut_new/istoriya-zakladu.md)
+  - [Стратегія розвитку](instytut_new/strategiya.md)
+  - [Нормативні документи](instytut_new/publichna-informatsiya.md)
+  - [Моніторинг якості освіти](instytut_new/publichna-informatsiya.md#monitoryng-yakosti-osvity)
+  - [Структура Інституту](instytut_new/struktura-instytutu.md)
 - **[Освітні програми](osvitni-prohramy/index.md)**
   - [Фінанси, банківська справа, страхування та фондовий ринок](osvitni-prohramy/finansy-bankivska-sprava-strahuvannya-ta-fondovyi-rynok.md)
   - [Туризм і рекреація](osvitni-prohramy/turyzm-i-rekreatsiya.md)
@@ -41,4 +41,4 @@ tags: [індекс]
   - [Анкетування педагогічних працівників](vykladacham/anketuvannya-pedahohichnykh-pratsivnykiv.md)
 - **[Новини](novyny/index.md)**
 - **[Контакти](kontakty/index.md)**
-  - [Адреса, телефони, мапа](kontakty/adresa-telefony-mapa.md)
+  - [Адреса, телефони, мапа](instytut_new/kontaktna-informatsiya.md)

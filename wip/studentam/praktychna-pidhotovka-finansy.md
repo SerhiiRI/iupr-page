@@ -30,4 +30,4 @@ source_url: https://iupr.com.ua/studentam/praktichna-pidgotovka/pr-pidg-finansi
 
 Графік освітнього процесу
 
-[Навчально-організаційний відділ](../pro-nas/navchalno-organizatsiynyi-viddil.md)
+[Навчально-організаційний відділ](../instytut_new/struktura-instytutu.md#навчально-організаційний-відділ)
